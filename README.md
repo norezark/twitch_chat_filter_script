@@ -17,3 +17,4 @@ Google Chromeの場合、拡張機能の開発者モードを有効にする必�
 
 以下をクリックします。
 
+https://github.com/norezark/twitch_chat_filter_script/raw/main/twitch_chat_filter_script.user.js
